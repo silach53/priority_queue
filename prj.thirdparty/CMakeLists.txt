@@ -1,0 +1,2 @@
+include_directories(doctest)
+add_subdirectory(doctest)
